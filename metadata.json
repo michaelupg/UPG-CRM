@@ -1,0 +1,6 @@
+{
+  "name": "UPG Real Estate CRM",
+  "description": "Production-grade Nigerian real estate CRM with omnichannel enquiry capture, client 360, pipeline, requirements matching, inspections, transactions, and staff performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
