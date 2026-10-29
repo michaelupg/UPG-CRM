@@ -43,15 +43,6 @@ export const Sidebar: React.FC<SidebarProps> = ({ isOpen, onClose }) => {
         </div>
       </div>
 
-      {/* Workspace Selector */}
-      <div className="workspace">
-        <div className="workspace-icon">U</div>
-        <div>
-          <strong>UPG Property Group</strong>
-          <small>Sales & client operations</small>
-        </div>
-        <span style={{ marginLeft: 'auto', fontSize: '11px', color: '#665d50' }}>⌄</span>
-      </div>
 
       {/* Primary Workspace Nav */}
       <div>
